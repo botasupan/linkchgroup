@@ -51,7 +51,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>Hello {first}\n\nAnda harus JOIN/BERGABUNG di kedua Channel dibawah ini terlebih dahulu untuk dapat mengakses filenya.\n\nSetelah JOIN kemudian klik DAPATKAN VIDEO</b>"
+      "value": "<b>Hello {first}\n\nAnda harus JOIN/BERGABUNG di Channel & Group dibawah ini terlebih dahulu untuk dapat mengakses filenya.\n\nSetelah JOIN kembali ke bot ini kemudian klik DAPATKAN VIDEO lalu klik MULAI/START</b>"
     },
     "CHANNEL":{
       "description": "Masukan Username Channel anda Untuk Wajib Subscribenya [ Jangan Pake @ ]",
