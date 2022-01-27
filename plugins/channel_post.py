@@ -49,7 +49,7 @@ async def channel_post(client: Client, message: Message):
     )
 
     await reply_text.edit(
-        f"🔗 <b>LINK VIDEO :</b>\n{link}\n\n✨ Request Video disini @RequestVidBot",
+        f"\n\n🔗 <b>LINK VIDEO :</b>\n{link}\n\n✨ Request Video disini @RequestVidBot",
         reply_markup=reply_markup,
         disable_web_page_preview=True,
     )
